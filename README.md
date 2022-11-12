@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laurentiu Cozma</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
-<img style="vertical-align:middle" alt="Castle Gif" width="600px" src="https://i.pinimg.com/originals/de/84/a5/de84a52c7461a4de6059643c5cc88477.gif">
+<div style="text-align: center"><img width="600px" src="https://i.pinimg.com/originals/de/84/a5/de84a52c7461a4de6059643c5cc88477.gif" alt="Castle Gif" /></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" /> </p>
 
