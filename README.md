@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP** and **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/laurentiucozma12?tab=repositories](https://github.com/laurentiucozma12?tab=repositories)
 
