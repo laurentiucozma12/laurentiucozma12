@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **PHP** and **C#**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/laurentiucozma12?tab=repositories)
+- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/laurentiucozma12?tab=repositories)**
+
+- 📚 You can check my **[Certificationsp](https://github.com/laurentiucozma12/Certifications)**
 
 - 📫 How to reach me **laurentiucozma12@gmail.com**
 
