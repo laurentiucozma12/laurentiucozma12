@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" /> </p>
 
-- 🔭 I’m currently working on **[Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)**
+- 💼  I’m currently working on **[Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)**
 
-- 🌱 I’m currently learning **PHP** and **C#**
+- 📘 I’m currently learning **PHP** and **C#**
 
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/laurentiucozma12?tab=repositories)**
 
-- 📚 You can check my **[Certificationsp](https://github.com/laurentiucozma12/Certifications)**
+- 📚 You can check my **[Certifications](https://github.com/laurentiucozma12/Certifications)**
 
 - 📫 How to reach me **laurentiucozma12@gmail.com**
 
