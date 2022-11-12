@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laurentiu Cozma</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
-<img align="center" alt="Castle Gif" width="400" src="https://gifs.alphacoders.com/gifs/view/168285">
+<img align="center" alt="Castle Gif" width="400" src="https://giffiles.alphacoders.com/168/168285.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" /> </p>
 
