@@ -1,5 +1,5 @@
 <img align="center" alt="Castle Gif" width="400" src="[https://imgs.search.brave.com/lq_KQQNZFHMF-uAdXXFHp1U7G1BKWUkSsSFbbtu2lfY/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly9naWZm/aWxlcy5hbHBoYWNv/ZGVycy5jb20vMTY4/LzE2ODI4NS5naWY.gif](https://search.brave.com/images?q=pixel+art+gif&source=web&img=0)">
-  <h1 align="center">Welcome to my profile, I'm Laurentiu Cozma</h1>
+<h1 align="center">Welcome to my profile, I'm Laurentiu Cozma</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
 
