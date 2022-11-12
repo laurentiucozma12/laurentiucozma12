@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" /> </p>
 
-- 🔭 I’m currently working on [Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)
+- 🔭 I’m currently working on **[Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)**
 
 - 🌱 I’m currently learning **PHP** and **C#**
 
