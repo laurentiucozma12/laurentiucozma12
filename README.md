@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile, I'm Laurențiu Ioan Cozma</h1>
+<h1 align="center">🎺 Welcome to my profile, I'm Laurențiu Ioan Cozma 🎺</h1>
 <h3 align="center">🏰 A passionate frontend developer from Romania 🏰</h3>
 <img width="100%" src="https://i.pinimg.com/originals/de/84/a5/de84a52c7461a4de6059643c5cc88477.gif" alt="Castle Gif" >
 
