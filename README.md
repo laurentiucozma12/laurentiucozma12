@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/laurentiucozma12?tab=repositories)**
 
-- 📚 You can check my **[Certifications](https://github.com/laurentiucozma12/Certifications)**
+- 📚 You can check my **[certifications here](https://github.com/laurentiucozma12/Certifications)**
 
 - 📫 How to reach me **laurentiucozma12@gmail.com**
 
