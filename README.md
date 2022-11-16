@@ -12,6 +12,9 @@
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel/blob/master/Preview.md)**
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos/blob/main/Preview.md)**
 
+- 🏁 My first project is:
+  - **[Achievement Generator](https://github.com/laurentiucozma12/Achievement-Generator-Simple-Version)**
+
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/laurentiucozma12?tab=repositories)**
 
 - 📚 You can check my **[Certifications](https://github.com/laurentiucozma12/Certifications)**
