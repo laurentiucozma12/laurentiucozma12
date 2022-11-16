@@ -8,6 +8,10 @@
 
 - 📘 I’m currently learning **PHP** and **C#**
 
+- 💙 My favorite projects are:
+- - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel/blob/master/Preview.md)**
+- - **[Cosmos](https://github.com/laurentiucozma12/Cosmos/blob/main/Preview.md)**
+
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/laurentiucozma12?tab=repositories)**
 
 - 📚 You can check my **[Certifications](https://github.com/laurentiucozma12/Certifications)**
