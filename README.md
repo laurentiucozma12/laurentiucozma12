@@ -3,7 +3,7 @@
 <img width="100%" src="https://i.pinimg.com/originals/de/84/a5/de84a52c7461a4de6059643c5cc88477.gif" alt="Castle Gif" >
 
 - Profile views since 12 November 2022:     
-  <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
+  - <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
 - 💼 I’m currently working on **[Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)**
 
