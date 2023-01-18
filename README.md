@@ -5,7 +5,7 @@
 - Profile views since 12 November 2022:     
   - <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
-- 💼 I’m currently working on **[Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)**
+- 💼 I’m currently working on **[Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)** and my personal gaming news website.
 
 - 📘 I’m currently learning **PHP** and **C#**
 
