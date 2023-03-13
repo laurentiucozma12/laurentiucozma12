@@ -4,13 +4,12 @@
   
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
-- 💼 I’m currently working on **[Work Manager (thesis)](https://github.com/laurentiucozma12/Work-Manager-Thesis)** and my personal gaming news website.
-
-- 📘 I’m currently learning **PHP** and **C#**
+- 📘 I’m currently learning more about **PHP**, **JavaScript** and **Wordpress**
 
 - 💙 My favorite projects are:
-  - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)**
-  - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)**
+  - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (completely functional)
+  - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
+  - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
 
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/laurentiucozma12?tab=repositories)**
 
