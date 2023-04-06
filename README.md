@@ -11,6 +11,10 @@
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
 
+- 🤝 Volunteer at RATIO organization and working at their websites using wordpress:
+  - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**
+  - **[suntemratio.ro](https://suntemratio.ro/)**
+
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/laurentiucozma12?tab=repositories)**
 
 - 📚 You can check my **[certifications here](https://github.com/laurentiucozma12/Certifications)**
