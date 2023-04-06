@@ -4,14 +4,14 @@
   
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
-- 📘 I’m currently learning more about **PHP**, **JavaScript** and **Wordpress**
+- 📘 I’m currently learning more about **PHP**, **JavaScript** and **WordPress**
 
 - 💙 My favorite projects are:
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (completely functional)
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
 
-- 🤝 Volunteer at RATIO organization and working at their websites using wordpress:
+- 🤝 Volunteer at **RATIO** organization and working at their websites using **WordPress**:
   - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**
   - **[suntemratio.ro](https://suntemratio.ro/)**
 
