@@ -1,11 +1,11 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> 🎺 Welcome to my profile, I'm Laurențiu Ioan Cozma 🎺 </h1>
-<h3 align="center"> 🦇🏰 A passionate web developer from Romania 🏰🦇 </h3>
+<h3 align="center"> 🦇🏰 A passionate Software Developer from Romania 🏰🦇 </h3>
 <img width="100%" src="https://i.pinimg.com/originals/de/84/a5/de84a52c7461a4de6059643c5cc88477.gif" alt="Castle Gif" >
   
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
-- 📘 I’m currently learning more about **Laravel** and trying to create a website with it - 🍕 **[Pizzeria Margherita](https://github.com/laurentiucozma12?tab=repositories)**
+- 📘 I’m currently learning more about **Laravel** and trying to create a website with it - 🍕 **[Pizzeria Margherita](https://github.com/laurentiucozma12?tab=repositories)** 🍕
 - 📘 I wanna learn more about **JavaScript** and **WordPress** in my extra time.
 
 - 💙 My favorite projects are:
