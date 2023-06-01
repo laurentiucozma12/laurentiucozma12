@@ -5,7 +5,7 @@
   
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
-- 📘 I’m currently learning more about **Laravel** and trying to create a website with it: **[Pizzeria.Margherita](https://github.com/laurentiucozma12?tab=repositories)**
+- 📘 I’m currently learning more about **Laravel** and trying to create a website with it - **[Pizzeria Margherita](https://github.com/laurentiucozma12?tab=repositories)**
 - 📘 I wanna learn more about **JavaScript** and **WordPress** in my extra time.
 
 - 💙 My favorite projects are:
