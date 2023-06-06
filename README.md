@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
 - 📘 I’m currently learning more about **Laravel** and trying to create a website with it - 🍕 **[Pizzeria Margherita](https://github.com/laurentiucozma12?tab=repositories)** 🍕
-- 📘 I wanna learn more about **JavaScript** and **WordPress** in my extra time.
+- 👨‍💻 I wanna learn more about **JavaScript** and **WordPress** in my extra time.
 
 - 💙 My favorite projects are:
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (completely functional)
@@ -16,8 +16,6 @@
 - 🤝 Former volunteer at **RATIO** organization and worked at their **WordPress** websites:
   - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**
   - **[suntemratio.ro](https://suntemratio.ro/)**
-
-- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/laurentiucozma12?tab=repositories)**
 
 - 📚 You can check my **[certifications here](https://github.com/laurentiucozma12/Certifications)**
 
