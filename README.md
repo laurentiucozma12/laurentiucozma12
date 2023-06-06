@@ -13,7 +13,7 @@
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
 
-- 🤝 Volunteer at **RATIO** organization and working at their websites using **WordPress**:
+- 🤝 Volunteer at **RATIO** organization and worked at their **WordPress** websites:
   - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**
   - **[suntemratio.ro](https://suntemratio.ro/)**
 
