@@ -9,6 +9,7 @@
 - 👨‍💻 I wanna learn more about **JavaScript** and **WordPress** in my extra time.
 
 - 💙 My favorite projects are:
+  - **[Pizzeria Margherita](https://github.com/laurentiucozma12/Pizzeria-Margherita)** (Laravel - Work in Progress)
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (completely functional)
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
