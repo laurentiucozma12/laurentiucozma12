@@ -8,7 +8,7 @@
 - 👨‍💻 I’m currently learning more about **Laravel** and trying to create my own website with it. However the repository is on private.
 
 - 💙 My favorite projects are:
-  - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (completely functional)
+  - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS completely functional)
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
 
