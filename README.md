@@ -5,11 +5,9 @@
   
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
-- 📘 I’m currently learning more about **Laravel** and trying to create a website with it - 🍕 **[Pizzeria Margherita](https://github.com/laurentiucozma12?tab=repositories)** 🍕
-- 👨‍💻 I wanna learn more about **JavaScript** and **WordPress** in my extra time.
+- 👨‍💻 I’m currently learning more about **Laravel** and trying to create my own website with it. However the repository is on private.
 
 - 💙 My favorite projects are:
-  - **[Pizzeria Margherita](https://github.com/laurentiucozma12/Pizzeria-Margherita)** (Laravel - Work in Progress)
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (completely functional)
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
