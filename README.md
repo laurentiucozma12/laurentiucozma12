@@ -5,7 +5,7 @@
   
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=0e75b6&style=flat" alt="laurentiucozma12" />
 
-- 👨‍💻 I’m currently learning more about **Laravel** and trying to create my own website with it. However the repository is on private.
+- 👨‍💻 I’m currently learning more about **Laravel** and trying to create my own website with it. The repository is private.
 
 - 💙 My favorite projects are:
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS completely functional)
