@@ -1,6 +1,6 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> Welcome to my profile, I'm Laurențiu Cozma </h1>
-<h3 align="center"> A Software Developer from Romania </h3>
+<h3 align="center"> Software Developer - Romania </h3>
 
 <!-- <h1 align="center"> 🎺 Welcome to my profile, I'm Laurențiu Cozma 🎺 </h1> -->
 <!-- <h3 align="center"> 🦇🏰 A passionate Software Developer from Romania 🏰🦇 </h3> -->
