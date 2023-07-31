@@ -23,7 +23,7 @@
   - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**
   - **[suntemratio.ro](https://suntemratio.ro/)**
 
-- 📚 You can check my certifications **[here](https://github.com/laurentiucozma12/Certifications)**
+- 📚 Check my certifications **[here](https://github.com/laurentiucozma12/Certifications)**
 
 - 📫 Reach me **laurentiucozma12@gmail.com**
 
