@@ -19,7 +19,7 @@
 - 🐋 I create custom themes for **[Stylish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)**:
   - **[My Stylish Profile](https://userstyles.org/user-profile/3767261)**     
 
-- 🤝 Former volunteer at **RATIO** organization and worked on their **WordPress** websites:
+- 🤝 Former volunteer at **RATIO** organization and worked on their **WordPress** WebSites:
   - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**
   - **[suntemratio.ro](https://suntemratio.ro/)**
 
