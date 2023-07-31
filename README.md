@@ -11,10 +11,10 @@
 - 👨‍💻 Currently experiencing with **Laravel**.
 
 - 💙 My favorite projects are:
-  - **[New Gaming News](https://github.com/laurentiucozma12/newgamingnews-presentation)** (Laravel, in development)
-  - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS completely functional)
-  - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
-  - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
+  - **[New Gaming News](https://github.com/laurentiucozma12/newgamingnews-presentation)** (Laravel, In Development)
+  - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS Completely Functional)
+  - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (Front-End Only)
+  - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (Front-End Only)
 
 - 🐋 I create custom themes for **[Stylish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)**:
   - **[My Stylish Profile](https://userstyles.org/user-profile/3767261)**     
