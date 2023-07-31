@@ -11,7 +11,7 @@
 - 👨‍💻 Currently experiencing with **Laravel**.
 
 - 💙 My favorite projects are:
-  - **[New Gaming News](https://github.com/laurentiucozma12/newgamingnews-presentation)** (Laravel, still working on it)
+  - **[New Gaming News](https://github.com/laurentiucozma12/newgamingnews-presentation)** (Laravel, in developement)
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS completely functional)
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (only front-end)
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (only front-end)
