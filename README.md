@@ -11,7 +11,7 @@
 - 👨‍💻 Currently experiencing with **Laravel**.
 
 - 🍍 My favorite projects are:
-  - **[Epic Game News](https://www.epicgamenews.com/)** (My WebSite, Made with Laravel, Status: In Development)
+  - **[Epic Game News](https://www.epicgamenews.com/)** (My WebSite, Made with Laravel, Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews)** )
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS Completely Functional)
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (Front-End Only)
   - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (Front-End Only)
