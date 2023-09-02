@@ -14,7 +14,6 @@
   - **[Epic Game News](https://www.epicgamenews.com/)** (My WebSite, Made with Laravel, Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS Completely Functional)
   - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (Front-End Only)
-  - **[Cosmos](https://github.com/laurentiucozma12/Cosmos)** (Front-End Only)
 
 - 💣 I create custom themes for **[Stylish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)**:
   - 🐢 **[My Stylish Profile](https://userstyles.org/user-profile/3767261)**
