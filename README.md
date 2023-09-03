@@ -13,7 +13,7 @@
 - 🍍 My favorite projects are:
   - **[Epic Game News](https://www.epicgamenews.com/)** (Laravel - Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS - Completely Functional)
-  - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (HTML, CSS, JS - Front-End Only)
+  - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (HTML, CSS, JS - Front End Only)
 
 - 💣 I create custom themes for **[Stylish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)**:
   - 🐢 **[My Stylish Profile](https://userstyles.org/user-profile/3767261)**
