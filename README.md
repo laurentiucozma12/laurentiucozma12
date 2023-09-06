@@ -8,8 +8,6 @@
   
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
 
-- 👨‍💻 Currently experiencing with **Laravel**.
-
 - 🍍 My favorite projects are:
   - **[Epic Game News](https://www.epicgamenews.com/)** (Laravel - Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
   - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS - Completely Functional)
