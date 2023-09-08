@@ -9,7 +9,9 @@
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
 <!-- Time Spent On -->
-<img src="https://wakatime.com/share/@f129cf21-5311-498f-98bb-e23c007757e2/6c8fbb04-36f9-45de-9f26-0a4c2d6424be.svg" alt="Wakatime Stats">
+<h3 align="center">
+  ![Wakatime Stats](https://wakatime.com/share/@f129cf21-5311-498f-98bb-e23c007757e2/6c8fbb04-36f9-45de-9f26-0a4c2d6424be.svg)
+</h3>
 
 - 🍍 My favorite projects are:
   - **[Epic Game News](https://www.epicgamenews.com/)** (Laravel - Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
