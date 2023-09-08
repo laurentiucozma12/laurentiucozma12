@@ -10,7 +10,9 @@
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
 <!-- Time Spent On -->
 <h3 align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="laurentiucozma12" />
+<!--  Taken from: https://github.com/anuraghazra/github-readme-stats -->
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12)](https://github.com/anuraghazra/github-readme-stats)
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="laurentiucozma12" /> -->
   
  <!-- <img src="https://wakatime.com/share/@laurentiucozma12/790dcfe1-6d29-4e13-b9e3-ab6decb77615.svg" alt="laurentiucozma12" /> -->
  <!-- <img src="https://wakatime.com/share/@laurentiucozma12/40b25622-c23b-41a8-916a-d1957a5f5a92.svg" alt="laurentiucozma12" /> -->
