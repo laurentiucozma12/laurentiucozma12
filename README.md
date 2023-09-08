@@ -10,7 +10,8 @@
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
 <!-- Time Spent On -->
 <h3 align="center">
-  ![Wakatime Stats](https://wakatime.com/share/@f129cf21-5311-498f-98bb-e23c007757e2/6c8fbb04-36f9-45de-9f26-0a4c2d6424be.svg)
+<!--   ![Wakatime Stats](https://wakatime.com/share/@f129cf21-5311-498f-98bb-e23c007757e2/6c8fbb04-36f9-45de-9f26-0a4c2d6424be.svg) -->
+ ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 </h3>
 
 - 🍍 My favorite projects are:
