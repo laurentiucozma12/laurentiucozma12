@@ -5,8 +5,11 @@
 <!-- <h1 align="center"> 🎺 Welcome to my profile, I'm Laurențiu Cozma 🎺 </h1> -->  
 <!-- <h3 align="center"> 🦇🏰 A passionate Software Developer from Romania 🏰🦇 </h3> -->
 <!-- <img width="100%" src="https://i.pinimg.com/originals/de/84/a5/de84a52c7461a4de6059643c5cc88477.gif" alt="Castle Gif" > -->
-  
+
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
+<!-- Time Spent On -->
+![Wakatime Stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 - 🍍 My favorite projects are:
   - **[Epic Game News](https://www.epicgamenews.com/)** (Laravel - Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
