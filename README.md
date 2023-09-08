@@ -12,7 +12,7 @@
 <!-- Time Spent On -->
 <h3 align="left"> 
  <!--  Taken from: https://github.com/anuraghazra/github-readme-stats -->
- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12)](https://github.com/anuraghazra/github-readme-stats) -->
 </h3>
 
 - 🍍 My favorite projects are:
