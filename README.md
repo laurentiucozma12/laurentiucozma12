@@ -5,9 +5,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
 <h3 aligh="left"> My WebSite 🎮 <a href="https://epicgamenews.com/" target="_blank">Epic Game News</a></h3>
 
-<!-- Profile Views -->
-<img align="right" src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
-
 <!-- Time Spent On -->
 <h3> My time spent on since 8 September 2023: </h3>     
 <h3 align="left">
