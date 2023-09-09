@@ -1,6 +1,9 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> Welcome to my profile, I'm Laurențiu Cozma </h1>
-<h3 align="center"> Software Developer - Romania </h3> 
+<h2 align="center"> Software Developer - Romania </h2> 
+<h3 aligh="left"> My WebSite: </h3>    
+     
+- **[🎮 Epic Game News](https://epicgamenews.com/)**
  
 <!-- <h1 align="center"> 🎺 Welcome to my profile, I'm Laurențiu Cozma 🎺 </h1> -->  
 <!-- <h3 align="center"> 🦇🏰 A passionate Software Developer from Romania 🏰🦇 </h3> -->
@@ -32,10 +35,11 @@
 - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**    
 - **[suntemratio.ro](https://suntemratio.ro/)**     
        
-<h3> 📚 Check my certifications: </h3> 
+<h3> 📚 Check my certifications: </h3>     
+       
 - 📖 **[Certifications](https://github.com/laurentiucozma12/Certifications)**    
        
-<h3> 📫 Reach me **laurentiucozma12@gmail.com** </h3>       
+<h3> 📫 Reach me **laurentiucozma12@gmail.com** </h3>         
         
 <h3 align="left">Connect with me:</h3>
 <p align="left">
