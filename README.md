@@ -30,7 +30,7 @@
        
 <h3> 📚 Check my certifications: </h3>     
        
-- 📖 **[Certifications](https://github.com/laurentiucozma12/Certifications)**    
+- 📘 **[Certifications](https://github.com/laurentiucozma12/Certifications)**    
        
 <h3> 📫 Reach me **laurentiucozma12@gmail.com** </h3>         
         
