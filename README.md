@@ -10,11 +10,9 @@
 <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
 
 <!-- Time Spent On -->
-<h3 align="left"> 
- My time spent on last week:     
- <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="time spent on last week" />       
- My time spent on last year:        
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="time spent on last year" />    
+<h3 align="left">          
+ My time spent on since 8 September 2023:           
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="time spent on last year" />      
 </h3>    
 
 - 🍍 My favorite projects are:
