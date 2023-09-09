@@ -1,10 +1,7 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> Welcome to my profile, I'm Laurențiu Cozma </h1>
 <h2 align="center"> Software Developer - Romania </h2> 
-<h3 aligh="left"> My WebSite: </h3>    
-     
-- **[🎮 Epic Game News](https://epicgamenews.com/)**
-<a href="https://epicgamenews.com/" target="_blank">🎮 Epic Game News</a>
+<h3 aligh="left"> My WebSite <a href="https://epicgamenews.com/" target="_blank">🎮 Epic Game News</a></h3>    
  
 <!-- <h1 align="center"> 🎺 Welcome to my profile, I'm Laurențiu Cozma 🎺 </h1> -->  
 <!-- <h3 align="center"> 🦇🏰 A passionate Software Developer from Romania 🏰🦇 </h3> -->
