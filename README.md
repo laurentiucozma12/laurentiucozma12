@@ -21,7 +21,7 @@
 - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS - Completely Functional)
 - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (HTML, CSS, JS - Front End Only)
 
-<h3> 💣 I create custom themes for [Stylish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe): </h3>      
+<h3> 💣 I create custom themes for  </h3> [Stylish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe):   
       
 - 🐢 **[My Stylish Profile](https://userstyles.org/user-profile/3767261)**
 - 🐋 **[My Stylish Themes "Storage"](https://github.com/laurentiucozma12/stylish-themes)**      
