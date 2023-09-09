@@ -15,16 +15,19 @@
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="time spent on last year" />      
 </h3>    
 
-<h3> 🍍 My favorite projects are: </h3>
+<h3> 🍍 My favorite projects are: </h3>       
+      
 - **[Epic Game News](https://www.epicgamenews.com/)** (Laravel - Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
 - **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS - Completely Functional)
 - **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (HTML, CSS, JS - Front End Only)
 
 <h3> 💣 I create custom themes for **[Stylish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)**: </h3>      
+      
 - 🐢 **[My Stylish Profile](https://userstyles.org/user-profile/3767261)**
 - 🐋 **[My Stylish Themes "Storage"](https://github.com/laurentiucozma12/stylish-themes)**      
      
-<h3> 🤝 Former volunteer at **RATIO** organization (February - June, 2023) and worked on their **WordPress** WebSites: </h3>     
+<h3> 🤝 Former volunteer at **RATIO** organization (February - June, 2023) and worked on their **WordPress** WebSites: </h3>        
+
 - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**    
 - **[suntemratio.ro](https://suntemratio.ro/)**     
        
