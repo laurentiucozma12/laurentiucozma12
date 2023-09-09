@@ -5,6 +5,8 @@
      
 - **[🎮 Epic Game News](https://epicgamenews.com/)**
 <a src="https://epicgamenews.com/" target="_blank">🎮 Epic Game News</a>
+- [🎮 Epic Game News](https://epicgamenews.com/){:target="_blank"}
+
  
 <!-- <h1 align="center"> 🎺 Welcome to my profile, I'm Laurențiu Cozma 🎺 </h1> -->  
 <!-- <h3 align="center"> 🦇🏰 A passionate Software Developer from Romania 🏰🦇 </h3> -->
