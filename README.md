@@ -24,7 +24,7 @@
   - 🐢 **[My Stylish Profile](https://userstyles.org/user-profile/3767261)**
   - 🐋 **[My Stylish Themes "Storage"](https://github.com/laurentiucozma12/stylish-themes)** 
 
-- 🤝 Former volunteer at **RATIO** organization and worked on their **WordPress** WebSites:
+- 🤝 Former volunteer at **RATIO** organization (February - June 2023) and worked on their **WordPress** WebSites:
   - **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**
   - **[suntemratio.ro](https://suntemratio.ro/)**
 
