@@ -55,4 +55,4 @@
 </p>     
      
 <!-- Snake Gif -->
-![snake gif](https://github.com/laurentiucozma12/laurentiucozma12/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/laurentiucozma12/laurentiucozma12/blob/output/github-contribution-grid-snake.gif)
