@@ -54,9 +54,14 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>     
      
-<!-- Snake Gif -->
-<picture>
+<!-- Snake Dark SVG -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
+</picture> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
 </picture>
