@@ -4,6 +4,7 @@
 <h3 aligh="left"> My WebSite: </h3>    
      
 - **[🎮 Epic Game News](https://epicgamenews.com/)**
+- <link src="https://epicgamenews.com/" target="_blank">🎮 Epic Game News</link>
  
 <!-- <h1 align="center"> 🎺 Welcome to my profile, I'm Laurențiu Cozma 🎺 </h1> -->  
 <!-- <h3 align="center"> 🦇🏰 A passionate Software Developer from Romania 🏰🦇 </h3> -->
