@@ -18,9 +18,9 @@
 
 <h3> 🍍 My favorite projects are: </h3>       
       
-- **[Epic Game News](https://www.epicgamenews.com/)** (Laravel - Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
-- **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS - Completely Functional)
-- **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (HTML, CSS, JS - Front End Only)
+- 🎮 **[Epic Game News](https://www.epicgamenews.com/)** (Laravel - Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
+- ⚙️ **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS - Completely Functional)
+- 🍪 **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (HTML, CSS, JS - Front End Only)
 
 <h3> 💣 I create custom themes for Stylish Extension: </h3>           
         
