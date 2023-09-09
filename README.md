@@ -61,7 +61,9 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture> -->
 
+<!-- Snake Dark SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
 </picture>
+
