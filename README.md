@@ -11,7 +11,7 @@
 
 <!-- Time Spent On -->
 <h3 align="left"> 
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12" alt="time spent on" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="time spent on" />
 </h3>
 
 - 🍍 My favorite projects are:
