@@ -24,15 +24,14 @@
 - 🐋 **[My Stylish Themes "Storage"](https://github.com/laurentiucozma12/stylish-themes)**      
      
 <h3> 🤝 Former volunteer at **RATIO** organization (February - June, 2023) and worked on their WordPress WebSites: </h3>        
-
-- **[academia.suntemratio.ro](https://academia.suntemratio.ro/)**    
-- **[suntemratio.ro](https://suntemratio.ro/)**     
+<ul>
+ <li><b>[academia.suntemratio.ro](https://academia.suntemratio.ro/)</b></li>
+ <li><b>[suntemratio.ro](https://suntemratio.ro/)</b></li>
+</ul>    
        
-<h3> 📚 Check my certifications: </h3>     
-       
-- 📘 **[Certifications](https://github.com/laurentiucozma12/Certifications)**    
-       
-<h3> 📫 Reach me **laurentiucozma12@gmail.com** </h3>         
+<h3> 📚 Check my certifications <b>[Here](https://github.com/laurentiucozma12/Certifications)</b></h3>     
+             
+<h3> 📫 Reach me <b>laurentiucozma12@gmail.com</b></h3>         
         
 <h3 align="left">Connect with me:</h3>
 <p align="left">
