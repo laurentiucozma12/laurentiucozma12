@@ -4,19 +4,19 @@
 
 <h3><img align="right" src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></h3>
 <h3 aligh="left"> My WebSite 🎮 <a href="https://epicgamenews.com/" target="_blank">Epic Game News</a></h3> 
-<a href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime"></a>
+
 <!-- Time Spent On -->
 <h3> My time spent on since 8 September 2023: </h3>     
 <h3 align="left">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" />
 </h3>
- 
 
 <h3> 🍍 My favorite projects are: </h3>
 <ul>
    <li>
     <b><a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a></b>
     <h6> (Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation"> Info </a></b>)</h6>
+    <a href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime"></a>
    </li>
    <li><b><a href="https://github.com/laurentiucozma12/Work-Manager-Thesis"> ⚙️ Work Manager </a></b><h6> (PHP/JS - Completely Functional) </h6></li>
    <li><b><a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b><h6>(HTML, CSS, JS - Front End Only) </h6></li>
