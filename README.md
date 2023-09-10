@@ -13,9 +13,7 @@
 
 <h3> 🍍 My favorite projects are: </h3>
 <ul>
-   <li>
-    <b><a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a></b><h6> (Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation">Info</a></b>) </h6>
-   </li>
+   <li><b><a href="https://www.epicgamenews.com/">🎮 Epic Game News</a></b><h6>(Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation">Info</a></b>)</h6></li>
    <li><b><a href="https://github.com/laurentiucozma12/Work-Manager-Thesis"> ⚙️ Work Manager </a></b><p> (PHP/JS - Completely Functional) </p></li>
    <li><b><a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b><p>(HTML, CSS, JS - Front End Only)</p></li>
 </ul>
