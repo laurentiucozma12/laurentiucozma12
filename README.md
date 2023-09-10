@@ -9,7 +9,7 @@
 <h3> My time spent on since 8 September 2023: </h3>     
 <h3 align="left">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="time spent on last year" />   
- <img src="https://wakatime.com/share/@laurentiucozma12/66c1ecaa-3d5f-4237-8d97-f61584cea944.svg" />
+ <img src="https://wakatime.com/share/@laurentiucozma12/66c1ecaa-3d5f-4237-8d97-f61584cea944.svg" style="width: 50px;" />
 </h3>    
 
 <h3> 🍍 My favorite projects are: </h3>
