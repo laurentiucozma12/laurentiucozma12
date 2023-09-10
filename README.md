@@ -11,7 +11,7 @@
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=&text_color=777" alt="time spent on last year" />   
 </h3>
 <h3>
- <img src="https://wakatime.com/share/@laurentiucozma12/66c1ecaa-3d5f-4237-8d97-f61584cea944.svg" style="width: 400px; border: none; background-color: #ffffff00; color: #777;" />
+ <img src="https://wakatime.com/share/@laurentiucozma12/66c1ecaa-3d5f-4237-8d97-f61584cea944.svg" width="500px" style="border: none; background-color: #ffffff00; color: #777;" />
 </h3>    
 
 <h3> 🍍 My favorite projects are: </h3>
