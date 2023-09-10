@@ -4,7 +4,7 @@
 
 <h3><img align="right" src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></h3>
 <h3 aligh="left"> My WebSite 🎮 <a href="https://epicgamenews.com/" target="_blank">Epic Game News</a></h3> 
-
+<a href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime"></a>
 <!-- Time Spent On -->
 <h3> My time spent on since 8 September 2023: </h3>     
 <h3 align="left">
