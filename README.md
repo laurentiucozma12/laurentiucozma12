@@ -11,22 +11,29 @@
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="time spent on last year" />      
 </h3>    
 
-<h3> 🍍 My favorite projects are: </h3>       
-      
-- 🎮 **[Epic Game News](https://www.epicgamenews.com/)** (Laravel - Status: In Development, Check out more **[Info](https://github.com/laurentiucozma12/epicgamenews-presentation)** )
-- ⚙️ **[Work Manager](https://github.com/laurentiucozma12/Work-Manager-Thesis)** (PHP/JS - Completely Functional)
-- 🍪 **[Dark Panel](https://github.com/laurentiucozma12/Dark-Panel)** (HTML, CSS, JS - Front End Only)
+<h3> 🍍 My favorite projects are: </h3>
+<ul>
+   <li>
+    <b><a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a></b>
+    <p>
+     (Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation">Info</a></b>)
+    </p>
+   </li>
+   <li><b><a href="https://github.com/laurentiucozma12/Work-Manager-Thesis"> ⚙️ Work Manager </a></b><p> (PHP/JS - Completely Functional) </p></li>
+   <li><b><a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b><p>(HTML, CSS, JS - Front End Only)</p></li>
+</ul>
 
-<h3> 💣 I create custom themes for Stylish Extension: </h3>           
-        
-- 🏰 **[Stylish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)**           
-- 🐢 **[My Stylish Profile](https://userstyles.org/user-profile/3767261)**
-- 🐋 **[My Stylish Themes "Storage"](https://github.com/laurentiucozma12/stylish-themes)**      
-     
+<h3> 💣 I create custom themes for Stylish Extension: </h3>
+<ul>
+   <li><b><a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a></b></li>
+   <li><b><a href="https://userstyles.org/user-profile/3767261"> 🐢 My Stylish Profile </a></b></li>
+   <li><b><a href="https://github.com/laurentiucozma12/stylish-themes"> 🐋 My Stylish Themes "Storage" </a></b></li>
+</ul>    
+
 <h3> 🤝 Former volunteer at **RATIO** organization (February - June, 2023) and worked on their WordPress WebSites: </h3>        
 <ul>
- <li><b>[academia.suntemratio.ro](https://academia.suntemratio.ro/)</b></li>
- <li><b>[suntemratio.ro](https://suntemratio.ro/)</b></li>
+ <li><b><a href="https://academia.suntemratio.ro/">academia.suntemratio.ro</a></b></li>
+ <li><b><a href="https://suntemratio.ro/">suntemratio.ro</a></b></li>
 </ul>    
        
 <h3> 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b></h3>
