@@ -10,7 +10,7 @@
 
 <!-- Editors -->
 
-<h3 >
+<h3 align="left">
  <img src="https://wakatime.com/share/@laurentiucozma12/f945bff5-8348-44be-afb7-0a5b93a35c3b.svg" width="500px" />
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&bg_color=&text_color=777" alt="time spent on last year" />   
 </h3>
