@@ -13,9 +13,12 @@
 
 <h3> 🍍 My favorite projects are: </h3>
 <ul>
-   <li><b><a href="https://www.epicgamenews.com/">🎮 Epic Game News</a></b><h6>(Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation">Info</a></b>)</h6></li>
-   <li><b><a href="https://github.com/laurentiucozma12/Work-Manager-Thesis"> ⚙️ Work Manager </a></b><p> (PHP/JS - Completely Functional) </p></li>
-   <li><b><a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b><p>(HTML, CSS, JS - Front End Only)</p></li>
+   <li>
+    <b><a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a></b>
+    <h6> (Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation"> Info </a></b>)</h6>
+   </li>
+   <li><b><a href="https://github.com/laurentiucozma12/Work-Manager-Thesis"> ⚙️ Work Manager </a></b><h6> (PHP/JS - Completely Functional) </h6></li>
+   <li><b><a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b><h6>(HTML, CSS, JS - Front End Only) </h6></li>
 </ul>
 
 <h3> 💣 I create custom themes for Stylish Extension: </h3>
@@ -25,7 +28,7 @@
    <li><b><a href="https://github.com/laurentiucozma12/stylish-themes"> 🐋 My Stylish Themes "Storage" </a></b></li>
 </ul>    
 
-<h3> 🤝 Former volunteer at **RATIO** organization (February - June, 2023) and worked on their WordPress WebSites: </h3>        
+<h3> 🤝 Former volunteer at <b>RATIO</b> organization (February - June, 2023) and worked on their WordPress WebSites: </h3>        
 <ul>
  <li><b><a href="https://academia.suntemratio.ro/">academia.suntemratio.ro</a></b></li>
  <li><b><a href="https://suntemratio.ro/">suntemratio.ro</a></b></li>
