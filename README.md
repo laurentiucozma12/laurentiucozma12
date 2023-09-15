@@ -6,7 +6,7 @@
 <h3 aligh="left"> My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News</a></h3> 
 
 <!-- Time Spent On -->
-<h3> My time spent on since 8 September 2023: </h3>     
+<h3> My time spent on since 8 September 2023: </h3>      
 <h3 align="left">
  <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" /></a>
 </h3>
