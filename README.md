@@ -3,7 +3,7 @@
 <h2 align="center"> Software Developer - Romania </h2>  
  
 <h3><a href="https://wakatime.com/@laurentiucozma12"><img align="right" src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></a></h3>
-<h3 aligh="left"> My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News</a></h3> 
+My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News</a>
 
 <!-- Time Spent On -->
 <h3> My time spent on since 8 September 2023: </h3>      
