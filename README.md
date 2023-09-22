@@ -15,13 +15,13 @@
 - <a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b><h6>(HTML, CSS, JS - Front End Only)   
    
 ### 💣 I create custom themes for Stylish Extension:
-- <b><a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a></b>
-- <b><a href="https://userstyles.org/user-profile/3767261"> 🐢 My Stylish Profile </a></b>
-- <b><a href="https://github.com/laurentiucozma12/stylish-themes"> 🐋 My Stylish Themes "Storage" </a></b>   
+- <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a>
+- <a href="https://userstyles.org/user-profile/3767261"> 🐢 My Stylish Profile </a>
+- <a href="https://github.com/laurentiucozma12/stylish-themes"> 🐋 My Stylish Themes "Storage" </a>
      
 ### 🤝 Former volunteer at <b>RATIO</b> organization (February - June, 2023) and worked on their WordPress WebSites:       
-- <b><a href="https://academia.suntemratio.ro/">academia.suntemratio.ro</a></b>
-- <b><a href="https://suntemratio.ro/">suntemratio.ro</a></b>    
+- <a href="https://academia.suntemratio.ro/">academia.suntemratio.ro</a>
+- <a href="https://suntemratio.ro/">suntemratio.ro</a>    
        
 ### 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b>
 
