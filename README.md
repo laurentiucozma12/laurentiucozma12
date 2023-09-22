@@ -15,9 +15,9 @@
 
 ### 👨‍💻 Freelancing:
 - 🌞 Currently working on Ravelai (client project)
- <a href="https://wakatime.com/@laurentiucozma12">
-    <img href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/6dedc299-8a69-4fa8-8571-52a2b2aa4e9e.svg"  alt="wakatime">
- </a>
+  <a href="https://wakatime.com/@laurentiucozma12">
+    <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime">
+  </a>
      
 ### 🍍 My favorite projects are:
 - <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a>
