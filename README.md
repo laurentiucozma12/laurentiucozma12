@@ -8,11 +8,14 @@
 <a href="https://wakatime.com/@laurentiucozma12"><img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></a>     
 
 <!-- Time Spent On -->
-### My time spent on since 8 September 2023:     
+### ⌛ My time spent on since 8 September 2023:     
  <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 👨‍💻 Freelancing:
-- 🌞 Currently working on Ravelai (client project) <a href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/6dedc299-8a69-4fa8-8571-52a2b2aa4e9e.svg"></a>
+- 🌞 Currently working on Ravelai (client project)
+      <a href="https://wakatime.com/@laurentiucozma12">
+         <img href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/6dedc299-8a69-4fa8-8571-52a2b2aa4e9e.svg">
+      </a>
      
 ### 🍍 My favorite projects are:
 - <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a>
