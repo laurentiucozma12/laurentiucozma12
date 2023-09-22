@@ -10,16 +10,16 @@
  <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
      
 ### 🍍 My favorite projects are:
-- <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a><a href="https://wakatime.com/@laurentiucozma12"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime"></a><h6>(Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation"> Info </a></b>)
+- <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a><a href="https://wakatime.com/@laurentiucozma12"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime"></a>(Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation"> Info </a></b>)
 - <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis"> ⚙️ Work Manager </a> (PHP/JS - Completely Functional)   
-- <a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b><h6>(HTML, CSS, JS - Front End Only)   
+- <a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b>(HTML, CSS, JS - Front End Only)   
    
 ### 💣 I create custom themes for Stylish Extension:
 - <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a>
 - <a href="https://userstyles.org/user-profile/3767261"> 🐢 My Stylish Profile </a>
 - <a href="https://github.com/laurentiucozma12/stylish-themes"> 🐋 My Stylish Themes "Storage" </a>
      
-### 🤝 Former volunteer at <b>RATIO</b> organization (February - June, 2023) and worked on their WordPress WebSites:       
+### 🤝 Former volunteer at <b>RATIO</b> organization (Feb - June, 2023) and worked on their WordPress WebSites:       
 - <a href="https://academia.suntemratio.ro/">academia.suntemratio.ro</a>
 - <a href="https://suntemratio.ro/">suntemratio.ro</a>    
        
