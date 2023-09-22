@@ -12,7 +12,7 @@
  <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 👨‍💻 Freelancing:
-- Currently working on Ravelai (client project) <a href="https://wakatime.com/@laurentiucozma12"><img src="https://wakatime.com/@laurentiucozma12/projects/hacqutvcmj?start=2023-09-16&end=2023-09-22"></a>
+- 🌞 Currently working on Ravelai (client project) <a href="https://wakatime.com/@laurentiucozma12"><img src="https://wakatime.com/@laurentiucozma12/projects/hacqutvcmj?start=2023-09-16&end=2023-09-22"></a>
      
 ### 🍍 My favorite projects are:
 - <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a><a href="https://wakatime.com/@laurentiucozma12"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime"></a>(Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation"> Info </a></b>)
