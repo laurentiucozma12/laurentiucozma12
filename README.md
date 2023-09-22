@@ -5,7 +5,9 @@
 ## [GitLab Profile](https://gitlab.com/laurentiucozma12)
 
 ## My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News </a>
-<a href="https://wakatime.com/@laurentiucozma12"><img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></a>     
+<a href="https://wakatime.com/@laurentiucozma12">
+    <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
+</a>     
 
 <!-- Time Spent On -->
 ### ⌛ My time spent on since 8 September 2023:     
@@ -13,9 +15,9 @@
 
 ### 👨‍💻 Freelancing:
 - 🌞 Currently working on Ravelai (client project)
-      <a href="https://wakatime.com/@laurentiucozma12">
-         <img href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/6dedc299-8a69-4fa8-8571-52a2b2aa4e9e.svg">
-      </a>
+ <a href="https://wakatime.com/@laurentiucozma12">
+    <img href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/6dedc299-8a69-4fa8-8571-52a2b2aa4e9e.svg"  alt="wakatime">
+ </a>
      
 ### 🍍 My favorite projects are:
 - <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a>
