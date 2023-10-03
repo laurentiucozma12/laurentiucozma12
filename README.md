@@ -14,10 +14,10 @@
  <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 👨‍💻 Freelancing:
+- 🔥 Working on Instalatii Gaz Dej
+  <a href="https://wakatime.com/badge/github/laurentiucozma12/instalatiigazdej"><img src="https://wakatime.com/badge/github/laurentiucozma12/instalatiigazdej.svg" alt="wakatime"></a>
 - 🌞 Worked on [Ravelai](https://ravelai.greenpixel.online/)
-  <a href="https://wakatime.com/@laurentiucozma12">
-    <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/6dedc299-8a69-4fa8-8571-52a2b2aa4e9e.svg" alt="wakatime">
-  </a>
+  <a href="https://wakatime.com/@laurentiucozma12"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/6dedc299-8a69-4fa8-8571-52a2b2aa4e9e.svg" alt="wakatime"></a>
      
 ### 🍍 My favorite projects are:
 - <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a>
