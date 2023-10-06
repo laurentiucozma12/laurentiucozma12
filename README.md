@@ -35,7 +35,7 @@
      
 ### 🤝 Former volunteer at <b>RATIO</b> organization (Feb - June, 2023) and worked on their WordPress WebSites:       
 - 🛡️ <a href="https://academia.suntemratio.ro/">academia.suntemratio.ro</a>
-- ®️ <a href="https://suntemratio.ro/">suntemratio.ro</a>    
+- 🇷 <a href="https://suntemratio.ro/">suntemratio.ro</a>    
        
 ### 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b>
 
