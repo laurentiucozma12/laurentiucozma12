@@ -10,8 +10,8 @@
 </a>     
 
 <!-- Time Spent On -->
-### ⌛ My time spent on since 8 September 2023:     
- <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
+### ⌛ My time spent on since 8 September 2023: <a href="https://wakatime.com/@f129cf21-5311-498f-98bb-e23c007757e2"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2.svg" alt="Total time coded since Sep 8 2023" /></a>
+<a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 👨‍💻 Freelancing:
 - 🔥 Working on Instalatii Gaz Dej
