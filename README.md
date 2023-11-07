@@ -17,7 +17,6 @@
 - 🍕 Working on Unpodiverso
   <a href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b4ec5-9041-43f8-b55a-9044021259e9"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b4ec5-9041-43f8-b55a-9044021259e9.svg" alt="wakatime"></a>
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/)
-- 🌞 Worked on [Ravelai](https://ravelai.greenpixel.online/)
      
 ### 🍍 My favorite projects are:
 - <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a>
