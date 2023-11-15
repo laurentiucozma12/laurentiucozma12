@@ -14,8 +14,7 @@
 <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=5&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 👨‍💻 Freelancing:
-- 🍕 Working on Unpodiverso
-  <a href="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b4ec5-9041-43f8-b55a-9044021259e9"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b4ec5-9041-43f8-b55a-9044021259e9.svg" alt="wakatime"></a>
+- 🍕 Worked on on [Unpodiverso Bruchsal](https://unpodiversobruchsal.de/)
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/)
      
 ### 🍍 My favorite projects are:
