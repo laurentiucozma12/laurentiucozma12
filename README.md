@@ -27,14 +27,14 @@
 - <a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b>(HTML, CSS, JS - Front End Only)   
 
 ### 💀 Faculty
-- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">Lab7 - .NET (MVC + API)
+- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">Lab 7 - .NET (MVC + API)
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018bf1b8-dd95-4be5-bde9-5465491345b8.svg" alt="wakatime">
   <a/>
 - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API">Lab 6 - .NET WEB API
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b7139-a566-402f-98c9-fdd92333e8ad.svg" alt="wakatime">
   <a/>
   <a/>
-- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">Lab 2-5 - .NET MVC
+- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">Lab 2 - 5 - .NET MVC
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b4870-9021-4bc2-bd1d-1c6b299eaa36.svg" alt="wakatime">
   <a/>
   <a/>
