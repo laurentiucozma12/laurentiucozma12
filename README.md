@@ -1,6 +1,6 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> Welcome to my profile, I'm Laurențiu Cozma </h1>
-<h2 align="center"> Software Developer - Romania </h2>  
+<h2 align="center"> Full-Stack Developer - Freelancer - Romania </h2>  
 
 ## [GitLab Profile](https://gitlab.com/laurentiucozma12)
 
