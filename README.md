@@ -27,22 +27,22 @@
 - <a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b>(HTML, CSS, JS - Front End Only)   
 
 ### 💀 Faculty
-- <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games">ASP.NET + Signal R (Exam Project)
+#### Master's Degree Program
+##### Advanced Programming Environments
+- <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games">.NET (MVC, Signal R) - Video Games (Exam Project)
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018d21b3-e648-4f58-9783-fe79baaa1103.svg" alt="wakatime">
   <a/>
-- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC">Lab 10 - .NET (gRPC)
+- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC">.NET gRPC - Lab 10 
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018d185e-096c-4114-81ef-ec11efa093c7.svg" alt="wakatime">
   <a/>
-- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">Lab 7 - 12 - .NET (MVC + API)
+- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">.NET (MVC, API, SignalR, gRPC) - Lab 7 - 12
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018bf1b8-dd95-4be5-bde9-5465491345b8.svg" alt="wakatime">
   <a/>
-- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API">Lab 6 - .NET WEB API
+- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API">.NET WEB API - Lab 6
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b7139-a566-402f-98c9-fdd92333e8ad.svg" alt="wakatime">
   <a/>
-  <a/>
-- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">Lab 2 - 5 - .NET MVC
+- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">.NET MVC - Lab 2 - 5
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b4870-9021-4bc2-bd1d-1c6b299eaa36.svg" alt="wakatime">
-  <a/>
   <a/>
 - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Complex_CRUD_Operations">.NET Complex CRUD Operations
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b60e6-f2ed-480d-9c78-e5c699d6add6.svg" alt="wakatime">
@@ -50,7 +50,11 @@
 - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Simple_CRUD_Operations">.NET Simple CRUD Operations
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b577c-0dff-47b6-b260-bd5ca5dfc65a.svg" alt="wakatime">
   <a/>
-   
+#### Bachelor's Degree Program
+##### Programming Environments
+- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments">.NET MVC - Planteea Shop (Exam Project)</a>
+- <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Programming_Environments">.NET MVC - Lab 1 - 12</a> 
+  
 ### 💣 I create custom themes for Stylish Extension:
 - <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a>
 - <a href="https://userstyles.org/user-profile/3767261"> 🐢 My Stylish Profile </a>
