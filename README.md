@@ -50,8 +50,7 @@
         - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Simple_CRUD_Operations">.NET Simple CRUD Operations
             <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b577c-0dff-47b6-b260-bd5ca5dfc65a.svg" alt="wakatime">
           <a/>
-                      
-#### Bachelor's Degree Program
+- Bachelor's Degree Program
     - Programming Environments
         - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments">.NET MVC - Planteea Shop (Exam Project)</a>
         - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Programming_Environments">.NET MVC - Lab 1 - 12</a> 
