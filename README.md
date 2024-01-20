@@ -18,7 +18,8 @@
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/)
      
 ### 🍍 My favorite projects are:
-- <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News </a><a href="https://wakatime.com/@laurentiucozma12">
+- <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News</a>
+  <a href="https://wakatime.com/@laurentiucozma12">
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime">
   </a>
   (Laravel - Status: In Development, Check out more <b><a href="https://github.com/laurentiucozma12/epicgamenews-presentation"> Info </a></b>)
