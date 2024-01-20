@@ -29,27 +29,13 @@
 ### 💀 Faculty
 - Master's Degree Program
     - Advanced Programming Environments
-        - <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games">.NET (MVC, Signal R) - Video Games (Exam Project)
-            <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018d21b3-e648-4f58-9783-fe79baaa1103.svg" alt="wakatime">
-          <a/>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC">.NET gRPC - Lab 10 
-            <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018d185e-096c-4114-81ef-ec11efa093c7.svg" alt="wakatime">
-          <a/>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">.NET (MVC, API, SignalR, gRPC) - Lab 7 - 12
-            <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018bf1b8-dd95-4be5-bde9-5465491345b8.svg" alt="wakatime">
-          <a/>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API">.NET WEB API - Lab 6
-            <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b7139-a566-402f-98c9-fdd92333e8ad.svg" alt="wakatime">
-          <a/>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">.NET MVC - Lab 2 - 5
-            <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b4870-9021-4bc2-bd1d-1c6b299eaa36.svg" alt="wakatime">
-          <a/>
-        - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Complex_CRUD_Operations">.NET Complex CRUD Operations
-            <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b60e6-f2ed-480d-9c78-e5c699d6add6.svg" alt="wakatime">
-          <a/>
-        - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Simple_CRUD_Operations">.NET Simple CRUD Operations
-            <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/018b577c-0dff-47b6-b260-bd5ca5dfc65a.svg" alt="wakatime">
-          <a/>
+        - <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games">.NET (MVC, Signal R) - Video Games (Exam Project)</a>
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC">.NET gRPC - Lab 10</a>
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">.NET (MVC, API, SignalR, gRPC) - Lab 7 - 12</a>
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API">.NET WEB API - Lab</a>
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">.NET MVC - Lab 2 - 5</a>
+        - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Complex_CRUD_Operations">.NET Complex CRUD Operations</a>
+        - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Simple_CRUD_Operations">.NET Simple CRUD Operations</a>
 - Bachelor's Degree Program
     - Programming Environments
         - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments">.NET MVC - Planteea Shop (Exam Project)</a>
