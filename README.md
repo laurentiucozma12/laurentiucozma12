@@ -29,16 +29,16 @@
 - Master's Degree Program
     - Advanced Programming Environments
         - <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games">.NET (MVC, Signal R) - Video Games (Exam Project)</a>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC">.NET gRPC - Lab 10</a>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">.NET (MVC, API, SignalR, gRPC) - Lab 7 - 12</a>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API">.NET WEB API - Lab</a>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">.NET MVC - Lab 2 - 5</a>
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC">.NET gRPC</a>
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">.NET (MVC, API, SignalR, gRPC)</a>
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API">.NET WEB API</a>
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">.NET MVC</a>
         - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Complex_CRUD_Operations">.NET Complex CRUD Operations</a>
         - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Simple_CRUD_Operations">.NET Simple CRUD Operations</a>
 - Bachelor's Degree Program
     - Programming Environments
         - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments">.NET MVC - Planteea Shop (Exam Project)</a>
-        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Programming_Environments">.NET MVC - Lab 1 - 12</a> 
+        - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Programming_Environments">.NET MVC</a> 
   
 ### 💣 I create custom themes for Stylish Extension:
 - <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a>
