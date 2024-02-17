@@ -58,6 +58,9 @@
 
 ### Technologies:
 <p align="left">
+    <a href="https://github.com/marwin1991/profile-technology-icons" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="javascript" width="40" height="40"/></a>
+    <a href="https://github.com/marwin1991/profile-technology-icons" target="_blank" rel="noreferrer"></a>
+    <a href="https://github.com/marwin1991/profile-technology-icons" target="_blank" rel="noreferrer"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="laravel" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
