@@ -19,9 +19,9 @@
      
 ### 🍍 My favorite projects are:
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/>Epic Game News React</a> Still in progress, checkout the [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) for more info
-- <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News (Made with Laravel)</a>
-- <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis"> ⚙️ Work Manager </a> (PHP/JS - Completely Functional)   
-- <a href="https://github.com/laurentiucozma12/Dark-Panel"> 🍪 Dark Panel </a></b>(HTML, CSS, JS - Front End Only)   
+- <a href="https://www.epicgamenews.com/">🎮 Epic Game News (Made with Laravel)</a>
+- <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS - Completely Functional)</a>
+- <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel(HTML, CSS, JS - Front End Only)</a>
 
 ### 💀 Faculty
 - Master's Degree Program
