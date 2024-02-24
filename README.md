@@ -18,7 +18,7 @@
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/)
      
 ### 🍍 My favorite projects are:
-- <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="10" height="10"/>Epic Game News Reac</a> Still in progress, checkout the [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) for more info
+- <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/>Epic Game News React</a> Still in progress, checkout the [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) for more info
 - <a href="https://www.epicgamenews.com/"> 🎮 Epic Game News</a>
   <a href="https://wakatime.com/@laurentiucozma12">
     <img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2/project/839026fe-6ef0-486b-b0e3-f3eb6a1faf1f.svg" alt="wakatime">
