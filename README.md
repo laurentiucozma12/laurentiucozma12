@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Freelancing:
 - 🍕 Worked on [Unpodiverso Bruchsal](https://unpodiversobruchsal.de/)
-- 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/)
+- 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/) 
      
 ### 🍍 My favorite projects are:
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/>Epic Game News React</a> Still in progress, checkout the [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) for more info
