@@ -1,7 +1,7 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> Welcome to my profile, I'm Laurențiu Cozma </h1>
 <h2 align="center"> Full-Stack Developer Freelancer</h2>  
-
+ 
 ## [GitLab Profile](https://gitlab.com/laurentiucozma12)
 
 ## My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News </a>
