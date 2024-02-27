@@ -1,5 +1,5 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center"> Welcome to my profile, I'm Laurențiu Cozma </h1>
+<h1 align="center"> Welcome to my profile, I am Laurențiu Cozma </h1>
 <h2 align="center"> Full-Stack Developer Freelancer</h2> 
 
 ## My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News </a> <a href="https://wakatime.com/@laurentiucozma12"><img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></a>     
@@ -18,7 +18,7 @@
 - <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a>
 - <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel(HTML, CSS, JS - Front End Only)</a>
 
-### Main Technologies I'm Using:
+### Main Technologies I am Using:
 <p align="left">
     <a href="https://github.com/marwin1991/profile-technology-icons" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/></a>
     <a href="https://github.com/marwin1991/profile-technology-icons" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" width="40" height="40"/></a>
