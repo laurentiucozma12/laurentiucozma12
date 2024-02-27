@@ -15,10 +15,10 @@
 ### 🍍 My favorite projects are:
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/>Epic Game News React</a> Still in progress, checkout the [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) for more info
 - <a href="https://www.epicgamenews.com/">🎮 Epic Game News (Made with Laravel)</a>
-- <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS - Completely Functional)</a>
+- <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a>
 - <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel(HTML, CSS, JS - Front End Only)</a>
 
-### 💀 Faculty
+### 💀 Faculty Projects
 - Master's Degree Program
     - Advanced Programming Environments
         - <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games">.NET (MVC, Signal R) - Video Games (Exam Project)</a>
@@ -43,11 +43,6 @@
 - 🛡️ <a href="https://suntemratio.ro/">suntemratio.ro</a>    
         
 ### 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b>
-
-### 📫 Reach me <b>laurentiucozma12@gmail.com</b>
-
-### Connect with me:
-- <a href="https://www.linkedin.com/in/lauren%C8%9Biu-cozma-0025411ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurențiu cozma" height="30" width="40" /></a>
 
 ### Main Technologies I'm Using:
 <p align="left">
