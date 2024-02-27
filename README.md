@@ -32,17 +32,6 @@
     - Programming Environments
         - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments">.NET MVC - Planteea Shop (Exam Project)</a>
         - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Programming_Environments">.NET MVC</a> 
-  
-### 💣 I create custom themes for Stylish Extension:
-- <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a>
-- <a href="https://userstyles.org/user-profile/3767261"> 🐢 My Stylish Profile </a>
-- <a href="https://github.com/laurentiucozma12/stylish-themes"> 🐋 My Stylish Themes "Storage" </a>
-     
-### 🤝 Former volunteer at <b>RATIO</b> organization (Feb - June, 2023) and worked on their WordPress WebSites:       
-- 🛡️ <a href="https://academia.suntemratio.ro/">academia.suntemratio.ro</a>
-- 🛡️ <a href="https://suntemratio.ro/">suntemratio.ro</a>    
-        
-### 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b>
 
 ### Main Technologies I'm Using:
 <p align="left">
@@ -70,6 +59,17 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40"/></a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="gitlab" width="40" height="40"/></a>
 </p>  
+
+### 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b>
+  
+### 💣 I create custom themes for Stylish Extension:
+- <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a>
+- <a href="https://userstyles.org/user-profile/3767261"> 🐢 My Stylish Profile </a>
+- <a href="https://github.com/laurentiucozma12/stylish-themes"> 🐋 My Stylish Themes "Storage" </a>
+     
+### 🤝 Former volunteer at <b>RATIO</b> organization (Feb - June, 2023) and worked on their WordPress WebSites:       
+- 🛡️ <a href="https://academia.suntemratio.ro/">academia.suntemratio.ro</a>
+- 🛡️ <a href="https://suntemratio.ro/">suntemratio.ro</a>    
 
 <!-- Snake Dark SVG -->
 ### Snake eating my contributions 🐍:
