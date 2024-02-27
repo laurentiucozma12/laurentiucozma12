@@ -1,13 +1,8 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> Welcome to my profile, I'm Laurențiu Cozma </h1>
-<h2 align="center"> Full-Stack Developer Freelancer</h2>  
- 
-## [GitLab Profile](https://gitlab.com/laurentiucozma12)
+<h2 align="center"> Full-Stack Developer Freelancer</h2> 
 
-## My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News </a>
-<a href="https://wakatime.com/@laurentiucozma12">
-    <img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" />
-</a>     
+## My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News </a> <a href="https://wakatime.com/@laurentiucozma12"><img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></a>     
 
 <!-- Time Spent On -->
 ### ⌛ You know what they say "put in your 10,000 hours of practice, and become an expert". Here is my coding time since 8 September 2023: <a target="_blank" href="https://wakatime.com/@f129cf21-5311-498f-98bb-e23c007757e2"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2.svg" alt="Total time coded since Sep 8 2023" /></a>
