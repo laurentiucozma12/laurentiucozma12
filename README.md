@@ -21,7 +21,7 @@
 ### 💀 Faculty Projects
 - Master's Degree Program
      - Information systems for knowledge management
-          - <a href="https://github.com/laurentiucozma12/Faculty_Python_Spacy_Learning">Pythin & Spacy - Laborators</a>
+          - <a href="https://github.com/laurentiucozma12/Faculty_Python_Spacy_Learning">Python & Spacy - Laborators</a>
      - Advanced Programming Environments
           - <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games">.NET (MVC, Signal R) - Video Games (Exam Project)</a>
           - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC">.NET gRPC</a>
