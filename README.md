@@ -13,10 +13,10 @@
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/) 
      
 ### 🍍 My favorite projects are:
-- <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News React</a> For more info checkout the [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file)
-- <a href="https://www.epicgamenews.com/">🎮 Epic Game News (Made with Laravel)</a>
+- <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News React (React, Typescript)</a> For more info checkout the [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file)
+- <a href="https://www.epicgamenews.com/">🎮 Epic Game News (Laravel)</a>
 - <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a>
-- <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel(HTML, CSS, JS - Front End Only)</a>
+- <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS - Front End Only)</a>
 
 ### Main Technologies I am Using:
 <p align="left">
