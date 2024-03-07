@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome to my profile, I am Laurențiu Cozma </h1>
 <h2 align="center"> Full-Stack Developer Freelancer</h2> 
 
-## My WebSite <a href="https://epicgamenews.com/" target="_blank"> 🎮 Epic Game News </a> <a href="https://wakatime.com/@laurentiucozma12"><img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></a>     
+## My WebSite <a href="https://epicgamenews.com/" target="_blank"> <img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="10" height="10"/> Epic Game News </a> <a href="https://wakatime.com/@laurentiucozma12"><img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></a>     
 
 <!-- Time Spent On -->
 ### ⌛ You know what they say "put in your 10,000 hours of practice, and become an expert". Here is my coding time since 8 September 2023: <a target="_blank" href="https://wakatime.com/@f129cf21-5311-498f-98bb-e23c007757e2"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2.svg" alt="Total time coded since Sep 8 2023" /></a>
@@ -15,7 +15,7 @@
 ### 🍍 My favorite projects are:
 - <a href="https://laurentiucozma12.github.io/shopping-cart-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Shopping Cart (ReactJs, JavaScript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/shopping-cart-reactjs)
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News (ReactJs, Typescript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file)
-- <a href="https://www.epicgamenews.com/">🎮 Epic Game News (Laravel)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epicgamenews-presentation)
+- <a href="https://www.epicgamenews.com/"><img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="10" height="10"/> Epic Game News (Laravel)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epicgamenews-presentation)
 - <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a>
 - <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS - Front End Only)</a>
 
