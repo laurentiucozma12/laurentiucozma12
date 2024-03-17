@@ -11,13 +11,6 @@
 ### 👨‍💻 Freelancing:
 - 🍕 Worked on [Unpodiverso Bruchsal](https://unpodiversobruchsal.de/)
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/) 
-     
-### 🍍 My favorite projects are:
-- <a href="https://laurentiucozma12.github.io/shopping-cart-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Shopping Cart (ReactJs, JavaScript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/shopping-cart-reactjs)
-- <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News (ReactJs, Typescript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file)
-- <a href="https://www.epicgamenews.com/"><img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="20" height="20"/> Epic Game News (Laravel)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epicgamenews-presentation)
-- <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a>
-- <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS - Front End Only)</a>
 
 ### Main Technologies I am using:
 <p align="left">
@@ -31,6 +24,29 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="40" height="40"/></a>
 </p>
+     
+### 🍍 My favorite projects are:
+- <a href="https://laurentiucozma12.github.io/shopping-cart-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Shopping Cart (ReactJs, JavaScript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/shopping-cart-reactjs)
+- <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News (ReactJs, Typescript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file)
+- <a href="https://www.epicgamenews.com/"><img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="20" height="20"/> Epic Game News (Laravel)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epicgamenews-presentation)
+- <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a>
+- <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS - Front End Only)</a>
+
+### Other Technologies I used before:  
+<p align="left">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/></a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>  
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40"/></a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="gitlab" width="40" height="40"/></a>
+</p>  
 
 ### 💀 Faculty Projects
 - Master's Degree Program
@@ -48,22 +64,6 @@
      - Programming Environments
           - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments">.NET MVC - Planteea Shop (Exam Project)</a>
           - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Programming_Environments">.NET MVC</a> 
-
-### Other Technologies I used before:  
-<p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/></a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>  
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40"/></a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="gitlab" width="40" height="40"/></a>
-</p>  
 
 ### 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b>
   
