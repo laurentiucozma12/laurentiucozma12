@@ -69,7 +69,7 @@
 
 ### 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b>
   
-### 💣 I create custom themes for Stylish Extension:
+### 💣 Sometimes I create custom themes for Stylish Extension:
 - <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe"> 🏰 Stylish Extension </a>
 - <a href="https://userstyles.org/user-profile/3767261"> 🐢 My Stylish Profile </a>
 - <a href="https://github.com/laurentiucozma12/stylish-themes"> 🐋 My Stylish Themes "Storage" </a>
