@@ -12,7 +12,7 @@
 - 🍕 Worked on [Unpodiverso Bruchsal](https://unpodiversobruchsal.de/)
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/) 
 
-### Main Technologies I am using:
+### My Main Technologies:
 <p align="left">
 <!-- Icons: https://github.com/marwin1991/profile-technology-icons -->
      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="vue" width="40" height="40"/></a>
@@ -34,7 +34,7 @@
 - <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a> - 2023
 - <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS - Front End Only)</a> - 2022
 
-### Other Technologies I used before:  
+### Other Technologies:  
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
