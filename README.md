@@ -16,6 +16,7 @@
 <p align="left">
 <!-- Icons: https://github.com/marwin1991/profile-technology-icons -->
      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="vue" width="40" height="40"/></a>
+      <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" alt="astro" width="40" height="40"/></a>
      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="laravel" width="40" height="40"/></a>
      <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <!--     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="nextjs" width="40" height="40"/></a> -->
