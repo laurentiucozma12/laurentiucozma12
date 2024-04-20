@@ -1,6 +1,6 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> Welcome to my profile, I am Laurențiu Cozma </h1>
-<h2 align="center"> Full-Stack Developer Freelancer</h2> 
+<h2 align="center"> Full-Stack Developer Freelancer</h2>  
 
 ## My WebSite <a href="https://epicgamenews.com/" target="_blank"> <img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="30" height="30"/> Epic Game News </a> <a href="https://wakatime.com/@laurentiucozma12"><img src="https://komarev.com/ghpvc/?username=laurentiucozma12&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="laurentiucozma12" /></a>     
 
