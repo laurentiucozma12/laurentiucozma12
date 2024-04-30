@@ -1,4 +1,4 @@
-<!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ --> 
 <h1 align="center"> Welcome to my profile, I am Laurențiu Cozma </h1>
 <h2 align="center"> Full-Stack Developer Freelancer</h2>   
 
