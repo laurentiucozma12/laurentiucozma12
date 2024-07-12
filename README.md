@@ -13,7 +13,6 @@
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/) 
 
 ### My LeetCode Progress
-![](https://leetcard.jacoblin.cool/jacoblincool?animation=false)
 
 ### My Main Technologies:
 <p align="left">
