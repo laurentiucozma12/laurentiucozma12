@@ -12,8 +12,6 @@
 - 🍕 Worked on [Unpodiverso Bruchsal](https://unpodiversobruchsal.de/)
 - 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/) 
 
-### My LeetCode Progress
-
 ### My Main Technologies:
 <p align="left">
 <!-- Icons: https://github.com/marwin1991/profile-technology-icons -->  
