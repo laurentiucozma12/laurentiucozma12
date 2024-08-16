@@ -24,7 +24,8 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
      
-### 🍍 My favorite projects are:
+### 🍍 My projects are:
+<a href="[https://laurentiucozma12.github.io/shopping-cart-reactjs/](https://cookingrecipes-blog-nextjs.vercel.app/)" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> NextJs Blog [repository](https://github.com/laurentiucozma12/cookingrecipes-blog-nextjs) - 2024
 - <a href="https://laurentiucozma12.github.io/shopping-cart-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Shopping Cart (ReactJs, JavaScript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/shopping-cart-reactjs) - 2024
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News (ReactJs, Typescript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) - 2024
 - <a href="https://github.com/laurentiucozma12/epicgamenews"><img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="20" height="20"/> Epic Game News (Laravel)</a>
