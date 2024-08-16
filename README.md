@@ -7,9 +7,9 @@
 <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=10&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 👨‍💻 Freelancing:
-- 🍾 Worked on [Sticle Nelu - Art Handmade](https://www.sticlenelu-arthandmade.ro/)
-- 🍕 Worked on [Unpodiverso Bruchsal](https://unpodiversobruchsal.de/)
-- 🔥 Worked on [Instalatii Gaz Dej](https://instalatiigazdej.ro/) 
+- 🍾 Worked on [Sticle Nelu - Art Handmade (NextJs)](https://www.sticlenelu-arthandmade.ro/)
+- 🍕 Worked on [Unpodiverso Bruchsal (Laravel)](https://unpodiversobruchsal.de/)
+- 🔥 Worked on [Instalatii Gaz Dej (Laravel)](https://instalatiigazdej.ro/) 
 
 ### My Main Technologies:
 <p align="left">
@@ -25,7 +25,7 @@
 </p>
      
 ### 🍍 My projects are:
-<a href="[https://laurentiucozma12.github.io/shopping-cart-reactjs/](https://cookingrecipes-blog-nextjs.vercel.app/)" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> NextJs Blog [repository](https://github.com/laurentiucozma12/cookingrecipes-blog-nextjs) - 2024
+- <a href="[https://laurentiucozma12.github.io/shopping-cart-reactjs/](https://cookingrecipes-blog-nextjs.vercel.app/)" ><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="15" height="15"/>NextJs Blog [repository](https://github.com/laurentiucozma12/cookingrecipes-blog-nextjs) - 2024
 - <a href="https://laurentiucozma12.github.io/shopping-cart-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Shopping Cart (ReactJs, JavaScript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/shopping-cart-reactjs) - 2024
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News (ReactJs, Typescript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) - 2024
 - <a href="https://github.com/laurentiucozma12/epicgamenews"><img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="20" height="20"/> Epic Game News (Laravel)</a>
