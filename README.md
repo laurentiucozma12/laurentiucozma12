@@ -11,7 +11,7 @@
 - 🍕 [Unpodiverso Bruchsal (Laravel)](https://unpodiversobruchsal.de/)
 - 🔥 [Instalatii Gaz Dej (Laravel)](https://instalatiigazdej.ro/) 
 
-### My Main Technologies:
+### 🤖 My Main Technologies:
 <p align="left">
 <!-- Icons: https://github.com/marwin1991/profile-technology-icons -->  
   <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="40" height="40"/></a>  
@@ -27,7 +27,7 @@
 - <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a> - 2023
 - <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS)</a> - 2022
 
-### Other Technologies:  
+### 🌐 Other Technologies:  
 <p align="left">
   <a href="https://react.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
