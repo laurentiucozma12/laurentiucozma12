@@ -52,15 +52,15 @@
 ### 💀 Faculty Projects
 - Master's Degree Program 2023-2025
      - Information systems for knowledge management 
-          - <a href="https://github.com/laurentiucozma12/Faculty_Python_Spacy_Learning">Python & Spacy - Laborators</a>
+          - <a href="https://github.com/laurentiucozma12/Faculty_Python_Spacy_Learning"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="15" height="15"/>Python & Spacy - Laborators</a>
      - Advanced Programming Environments
-          - <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games">.NET (MVC, Signal R) - Video Games (Exam Project)</a>
-          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC">.NET gRPC</a>
-          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions">.NET (MVC, API, SignalR, gRPC)</a>
-          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API">.NET WEB API</a>
-          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments">.NET MVC</a>
-          - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Complex_CRUD_Operations">.NET Complex CRUD Operations</a>
-          - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Simple_CRUD_Operations">.NET Simple CRUD Operations</a>
+          - <a href="https://github.com/laurentiucozma12/ASP.NET_Video_Games"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET (MVC, Signal R) - Video Games (Exam Project)</a>
+          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_gRPC"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET gRPC</a>
+          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_3Sollutions"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET (MVC, API, SignalR, gRPC)</a>
+          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments_WEB_API"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET WEB API</a>
+          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Advanced_Programming_Environments"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET MVC</a>
+          - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Complex_CRUD_Operations"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET Complex CRUD Operations</a>
+          - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Simple_CRUD_Operations"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET Simple CRUD Operations</a>
 - Bachelor's Degree Program 2020-2023
      - Programming Environments 
           - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments">.NET MVC - Planteea Shop (Exam Project)</a>
