@@ -63,8 +63,8 @@
           - <a href="https://github.com/laurentiucozma12/ASP.NET_CORE_7_MVC_Simple_CRUD_Operations"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET Simple CRUD Operations</a>
 - Bachelor's Degree Program 2020-2023
      - Programming Environments 
-          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments">.NET MVC - Planteea Shop (Exam Project)</a>
-          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Programming_Environments">.NET MVC</a> 
+          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Shop_Exam_Programming_Environments"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET MVC - Planteea Shop (Exam Project)</a>
+          - <a href="https://github.com/laurentiucozma12/Cozma_Laurentiu_Laborators_Programming_Environments"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="15" height="15"/>.NET MVC</a> 
 
 ### 📚 Check my certifications <b><a href="https://github.com/laurentiucozma12/Certifications">here</a></b>
   
