@@ -1,6 +1,6 @@
 <!--  Link: https://rahuldkjain.github.io/gh-profile-readme-generator/ --> 
 <h1 align="center"> Welcome to my profile, I am Laurențiu Cozma </h1> 
-<h2 align="center"> Full-Stack Developer Freelancer</h2>
+<h2 align="center"> Full-Stack Web Developer Freelancer</h2>
   
 <!-- Time Spent On --> 
 ### ⌛ You know what they say "put in your 10,000 hours of practice, and become an expert". Here is my coding time since 8 September 2023: <a target="_blank" href="https://wakatime.com/@f129cf21-5311-498f-98bb-e23c007757e2"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2.svg" alt="Total time coded since Sep 8 2023" /></a>
