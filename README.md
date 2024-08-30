@@ -17,6 +17,8 @@
   <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="40" height="40"/></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://mui.com/material-ui/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" width="40" height="40"/></a>
+  <a href="https://ant.design/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="Ant Design" width="40" height="40"/></a>
 </p>
      
 ### 🍍 My projects favorite are:
