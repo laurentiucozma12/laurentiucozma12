@@ -25,7 +25,10 @@
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News (ReactJs, Typescript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) - 2024
 - <a href="https://github.com/laurentiucozma12/epicgamenews"><img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="20" height="20"/> Epic Game News (Laravel)</a> - 2023 - 2024
 - <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a> - 2023
-- <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS)</a> - 2022
+- <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS)</a> - 2022 
+- <a href="https://github.com/laurentiucozma12/Cosmos"> 🌑 Cosmos (HTML, CSS)</a> - 2022 
+- <a href="https://github.com/laurentiucozma12/Achievement-Generator">👑 Achievement Generator (HTML, CSS, JS)</a> - 2022
+- <a href="https://github.com/laurentiucozma12/Back-Stage-Talks">🧺 Back Stage Talks (HTML, CSS, JS)</a> - 2022
 
 ### 🌐 Other Technologies:  
 <p align="left">
