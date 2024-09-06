@@ -7,7 +7,7 @@
 <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=10&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 👨‍💻 Freelancing:
-- 🍾 [Sticle Nelu - Art Handmade (NextJs)](https://www.sticlenelu-arthandmade.ro/)
+- 🍾 [Sticle Nelu - Art Handmade (NextJs, TypeScript, Tailwind)](https://www.sticlenelu-arthandmade.ro/)
 - 🍕 [Unpodiverso Bruchsal (Laravel)](https://unpodiversobruchsal.de/)
 - 🔥 [Instalatii Gaz Dej (Laravel)](https://instalatiigazdej.ro/) 
 
