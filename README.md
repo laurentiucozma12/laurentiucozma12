@@ -7,9 +7,9 @@
 <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=10&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 👨‍💻 Freelancing:
-- <a href="https://www.sticlenelu-arthandmade.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="https://www.sticlenelu-arthandmade.ro/" width="15" height="15"/> Sticle Nelu - Art Handmade (NextJs, TypeScript, Tailwind)</a>
-- <a href="https://unpodiversobruchsal.de/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="https://unpodiversobruchsal.de/" width="15" height="15"/> Unpodiverso Bruchsal (Laravel)</a>
-- <a href="https://instalatiigazdej.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="instalatiigazdej.ro" width="15" height="15"/> Instalatii Gaz Dej (Laravel)</a>
+- <a href="https://www.sticlenelu-arthandmade.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="https://www.sticlenelu-arthandmade.ro/" width="15" height="15"/> Sticle Nelu - Art Handmade (NextJs, TypeScript, Tailwind) - 2024</a>
+- <a href="https://unpodiversobruchsal.de/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="https://unpodiversobruchsal.de/" width="15" height="15"/> Unpodiverso Bruchsal (Laravel) - 2023</a>
+- <a href="https://instalatiigazdej.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="instalatiigazdej.ro" width="15" height="15"/> Instalatii Gaz Dej (Laravel) - 2023</a>
 
 ### 🤖 My Main Technologies:
 <p align="left">
