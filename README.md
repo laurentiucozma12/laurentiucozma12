@@ -23,12 +23,12 @@
 - <a href="https://cookingrecipes-blog-nextjs.vercel.app/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="15" height="15"/> Cooking Blog (NextJs)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/cookingrecipes-blog-nextjs) - 2024
 - <a href="https://laurentiucozma12.github.io/shopping-cart-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Shopping Cart (ReactJs, JavaScript)</a>For more info checkout this [repository](https://github.com/laurentiucozma12/shopping-cart-reactjs) - 2024
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News (ReactJs, Typescript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) - 2024
-- <a href="https://github.com/laurentiucozma12/epicgamenews"><img src="https://github.com/laurentiucozma12/epic-game-news-reactjs/blob/0666c442747e514d43b40dc9b080b2144bbda717/app/public/logo-epic-game-news-400x400.png" alt="react" width="20" height="20"/> Epic Game News (Laravel)</a> - 2023 - 2024
-- <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis">⚙️ Work Manager (PHP/JS)</a> - 2023
-- <a href="https://github.com/laurentiucozma12/Dark-Panel">🍪 Dark Panel (HTML, CSS, JS)</a> - 2022 
-- <a href="https://github.com/laurentiucozma12/Cosmos"> 🌑 Cosmos (HTML, CSS)</a> - 2022 
-- <a href="https://github.com/laurentiucozma12/Achievement-Generator">👑 Achievement Generator (HTML, CSS, JS)</a> - 2022
-- <a href="https://github.com/laurentiucozma12/Back-Stage-Talks">🧺 Back Stage Talks (HTML, CSS, JS)</a> - 2022
+- <a href="https://github.com/laurentiucozma12/epicgamenews"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" width="15" height="15"/> Epic Game News (Laravel)</a> - 2023 - 2024
+- <a href="https://github.com/laurentiucozma12/Work-Manager-Thesis"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="15" height="15"/> Work Manager (PHP/JS)</a> - 2023
+- <a href="https://github.com/laurentiucozma12/Dark-Panel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="15" height="15"/> Dark Panel (HTML, CSS, JS)</a> - 2022 
+- <a href="https://github.com/laurentiucozma12/Cosmos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="15" height="15"/> Cosmos (HTML, CSS)</a> - 2022 
+- <a href="https://github.com/laurentiucozma12/Achievement-Generator"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="15" height="15"/> Achievement Generator (HTML, CSS, JS)</a> - 2022
+- <a href="https://github.com/laurentiucozma12/Back-Stage-Talks"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="15" height="15"/> Back Stage Talks (HTML, CSS, JS)</a> - 2022
 
 ### 🌐 Other Technologies:  
 <p align="left">
@@ -40,7 +40,7 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="vue" width="40" height="40"/></a> 
-    <a href="https://nodejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" width="40" height="40"/></a>
   <a href="https://astro.build/" target="_blank"><img src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" alt="astro" width="40" height="40"/></a>
   <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="csharp" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
