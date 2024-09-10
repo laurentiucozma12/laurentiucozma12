@@ -7,7 +7,7 @@
 <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=10&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
 ### 💻 Open Source Projects where I contribued:
-- <a href="https://github.com/marwin1991/profile-technology-icons">Profile Technology Icons</a>
+- <a href="https://ui.shadcn.com/" target="_blank"><img src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" alt="shadcn ui" width="15" height="15"/></a><a href="https://github.com/marwin1991/profile-technology-icons">Profile Technology Icons</a>
 
 ### 👨‍💻 Freelancing:
 - <a href="https://www.sticlenelu-arthandmade.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="https://www.sticlenelu-arthandmade.ro/" width="15" height="15"/> Sticle Nelu - Art Handmade (NextJs, TypeScript, Tailwind) - 2024</a>
@@ -16,10 +16,11 @@
 
 ### 🤖 My Main Technologies:
 <p align="left">
-<!-- Icons: https://github.com/marwin1991/profile-technology-icons -->  
+<!-- Icons: https://github.com/marwin1991/profile-technology-icons -->
   <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="40" height="40"/></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" alt="shadcn ui" width="40" height="40"/></a>
   </p>
      
 ### 🍍 My projects favorite are:
