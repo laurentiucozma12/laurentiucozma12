@@ -6,6 +6,9 @@
 ### ⌛ You know what they say "put in your 10,000 hours of practice, and become an expert". Here is my coding time since 8 September 2023: <a target="_blank" href="https://wakatime.com/@f129cf21-5311-498f-98bb-e23c007757e2"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2.svg" alt="Total time coded since Sep 8 2023" /></a>
 <a href="https://wakatime.com/@laurentiucozma12"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurentiucozma12&hide_title=true&hide_border=true&langs_count=10&text_color=777&theme=transparent" alt="time spent on last year" /></a>     
 
+### 💻 Open Source Projects where I contribued:
+- <a href="https://github.com/marwin1991/profile-technology-icons">Profile Technology Icons</a>
+
 ### 👨‍💻 Freelancing:
 - <a href="https://www.sticlenelu-arthandmade.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="https://www.sticlenelu-arthandmade.ro/" width="15" height="15"/> Sticle Nelu - Art Handmade (NextJs, TypeScript, Tailwind) - 2024</a>
 - <a href="https://unpodiversobruchsal.de/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="https://unpodiversobruchsal.de/" width="15" height="15"/> Unpodiverso Bruchsal (Laravel) - 2023</a>
