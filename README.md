@@ -31,6 +31,7 @@
   </p>
      
 ### 🍍 My projects favorite are:
+- <a href="https://laurentiucozma12.github.io/format-data/">💻Format Data</a> For more info checkout this [repository](https://github.com/laurentiucozma12/format-data) - 2024
 - <a href="https://cookingrecipes-blog-nextjs.vercel.app/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="15" height="15"/> Cooking Blog (NextJs)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/cookingrecipes-blog-nextjs) - 2024
 - <a href="https://laurentiucozma12.github.io/shopping-cart-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Shopping Cart (ReactJs, JavaScript)</a>For more info checkout this [repository](https://github.com/laurentiucozma12/shopping-cart-reactjs) - 2024
 - <a href="https://laurentiucozma12.github.io/epic-game-news-reactjs/" ><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="15" height="15"/> Epic Game News (ReactJs, Typescript)</a> For more info checkout this [repository](https://github.com/laurentiucozma12/epic-game-news-reactjs?tab=readme-ov-file) - 2024
