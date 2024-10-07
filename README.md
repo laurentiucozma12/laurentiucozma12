@@ -17,9 +17,9 @@
 - <a href="https://ui.shadcn.com/" target="_blank"><img src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" alt="shadcn ui" width="15" height="15"/></a><a href="https://github.com/marwin1991/profile-technology-icons">Profile Technology Icons</a>
 
 ### 👨‍💻 Freelancing:
+- <a href="https://instalatiigazdej.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="https://www.sticlenelu-arthandmade.ro/" width="15" height="15"/> Instalatii Gaz Dej (NextJs, TypeScript, Tailwind, ShadCn UI) - 2024</a>
 - <a href="https://www.sticlenelu-arthandmade.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="https://www.sticlenelu-arthandmade.ro/" width="15" height="15"/> Sticle Nelu - Art Handmade (NextJs, TypeScript, Tailwind) - 2024</a>
 - <a href="https://unpodiversobruchsal.de/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="https://unpodiversobruchsal.de/" width="15" height="15"/> Unpodiverso Bruchsal (Laravel) - 2023</a>
-- <a href="https://instalatiigazdej.ro/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="instalatiigazdej.ro" width="15" height="15"/> Instalatii Gaz Dej (Laravel) - 2023</a>
 
 ### 🤖 My Main Technologies:
 <p align="left">
