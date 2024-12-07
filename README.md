@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome to my profile, I am Laurențiu Cozma </h1> 
 <h2 align="center"> Full Stack Web Developer Freelancer</h2>
 
-<!-- Snake Dark SVG -->
+<!-- Snake Dark SVG --> 
 ### 🐍 Snake eating my contributions: 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
