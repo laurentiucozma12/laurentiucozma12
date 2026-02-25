@@ -9,8 +9,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-💼 My WebSite:
-- 🖥️ <a href="https://laudev.com/">LauDev.com</a>
+🖥️ My WebSite:
+- 💼 <a href="https://laudev.com/">LauDev.com</a>
 
 <!-- Time Spent On --> 
 ### ⌛ You know what they say "put in your 10,000 hours of practice, and become an expert". Here is my coding time since 8 September 2023: <a target="_blank" href="https://wakatime.com/@f129cf21-5311-498f-98bb-e23c007757e2"><img src="https://wakatime.com/badge/user/f129cf21-5311-498f-98bb-e23c007757e2.svg" alt="Total time coded since Sep 8 2023" /></a>
