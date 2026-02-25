@@ -9,7 +9,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-My WebSite:
+💼 My WebSite:
 - 🖥️ <a href="https://laudev.com/">LauDev.com</a>
 
 <!-- Time Spent On --> 
